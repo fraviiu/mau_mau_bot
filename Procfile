@@ -1,1 +1,1 @@
-worker: python "ContactBot.py"
+worker: python3 "Bot.py"
